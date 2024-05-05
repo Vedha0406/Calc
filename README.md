@@ -1,5 +1,5 @@
 # Ex.08 Design of a Standard Calculator
-## Date:24-04-2024
+## Date:05-05-2024
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 
 ### Step 6:
 Publish the website in the given URL.
+
 ## PROGRAM :
 <!DOCTYPE html>
 <html lang="en">
@@ -125,7 +126,7 @@ Publish the website in the given URL.
     </head>
 <body>
     <div class="calculator-container">
-        <h1>CALCULATOR</h1>
+       
         <div id="result">0</div>
         <button onclick="calculate(event);">7</button>
         <button onclick="calculate(event);">8</button>
@@ -150,6 +151,7 @@ Publish the website in the given URL.
     </div>
     </body>
 </html
+    
 ## OUTPUT:
 ![image](https://github.com/Vedha0406/Calc/assets/150884870/586aee7e-96fc-49b3-8450-684ad7c97451)
 ## RESULT:
