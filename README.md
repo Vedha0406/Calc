@@ -23,9 +23,7 @@ Validate the HTML and CSS code.
 
 ### Step 6:
 Publish the website in the given URL.
-
 ## PROGRAM :
-calc.html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -71,14 +69,9 @@ calc.html
                 expression = expression + cmd;
             }
             res.innerText = expression;
-            
-
         }
-         
         </script>
-
         <style>
-          
             .calculator-container {
                 width: 400px;
                 background-color:rgb(141, 176, 23);
@@ -87,8 +80,6 @@ calc.html
                 text-align: center;
                 
             }
-
-           
             button {
                 width: 50px;
                 height: 50px;
@@ -99,10 +90,7 @@ calc.html
                 color: white; 
                 border: none;
             }
-
-          
-            #result {
-                
+            #result {          
        background-color:#79efe1;
     text-align: right;
     padding-right: 50px;
@@ -162,10 +150,7 @@ calc.html
     </div>
     </body>
 </html
-
 ## OUTPUT:
 ![image](https://github.com/Vedha0406/Calc/assets/150884870/586aee7e-96fc-49b3-8450-684ad7c97451)
-
-
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
