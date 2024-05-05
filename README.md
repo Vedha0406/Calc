@@ -26,7 +26,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 calc.html
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
